@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Carrom Tournament</string>
+    <string name="carrom_title">Carrom Tournament</string>
+    <string name="quit">Quit</string>
+    <string name="new_game">New Game</string>
+    <string name="resume_game">Resume Game</string>
+    <string name="leadership_board">Leadership Board</string>
+    <string name="carrom_image">Carrom Image</string>
+    <string name="credits">Credits</string>
+    <string name="developer">Developer: Pradeep Kumar Sahoo</string>
+    <string name="email">Email: sahoo.projects.2020@gmail.com</string>
+</resources>
